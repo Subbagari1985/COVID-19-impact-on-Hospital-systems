@@ -1,7 +1,7 @@
 # COVID-19-impact-on-Hospital-related variables
 This analysis was designed to understand the impact that COVID-19 had on select hospitals-related variables.
 
-**Add image here**
+![image](https://user-images.githubusercontent.com/82011523/128114053-657d36dd-3f67-455c-a7e8-f8591a7e4b8e.png)
 
 
 **BACKGROUND**
@@ -30,9 +30,18 @@ Below is a list of our study results by the visualization presented in the analy
 
 _Barchart._ COVID-positive cases appear to be highest in California, Florida, New York, and Texas.  We note that these data were not adjusted by population size. 
 
+![image](https://user-images.githubusercontent.com/82011523/128114012-726d7521-c4e3-460e-b344-3f94ce3dd118.png)
+
+
 _Correlation heatmap._ Our correlation plot indicates significant and positive associations among our variables of interest.  COVID-related deaths were significantly and positively associated with ICU visits (r = 0.64), being on a ventilator (r = 0.42), and being hospitalized (r = 0.32).
 
+![image](https://user-images.githubusercontent.com/82011523/128113953-d86b24a2-a004-4b80-ac35-fbf02bda98c1.png)
+
+
 _Regression and scatter plots._ The regression lines and scatter plots indicate a similar pattern of relationships as observed in the correlation matrix. Again, all variables are positively and significantly associated. 
+
+![image](https://user-images.githubusercontent.com/82011523/128113974-0ab512c6-3402-42da-873b-ce4c45fc10b6.png)
+
 
 _Line graphs over time._ The multiple line plot indicates similar trends in our data.  Of note, we observed peaks in COVID-19 cases around regular holiday seasons (i.e., Fourth of July and between Thanksgiving and Christmas).  In addition, ICU visits and COVID-related deaths follow a similar pattern of behavior over time.  Lastly, there is a 1-month lag between positive cases and    ICU visits, as observed in the first few months of our chart. 
 
