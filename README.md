@@ -36,6 +36,9 @@ _Regression and scatter plots._ The regression lines and scatter plots indicate 
 
 _Line graphs over time._ The multiple line plot indicates similar trends in our data.  Of note, we observed peaks in COVID-19 cases around regular holiday seasons (i.e., Fourth of July and between Thanksgiving and Christmas).  In addition, ICU visits and COVID-related deaths follow a similar pattern of behavior over time.  Lastly, there is a 1-month lag between positive cases and    ICU visits, as observed in the first few months of our chart. 
 
+![image](https://user-images.githubusercontent.com/82011523/128113888-228f93fd-f2ae-460c-99b7-e543fc49dafd.png)
+
+
 **DISCUSSION**
 
 There were significant and positive relationships in our sample between ICU visits, hospitalization, and COVID-19 related death.  These data are consistent with studies reported in the popular press as well as in scientific journals. Overall, our data show that death is a likely outcome once patients are hospitalized or visit the ICU to battle COVID-19. 
